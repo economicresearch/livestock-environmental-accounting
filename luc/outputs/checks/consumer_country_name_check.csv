@@ -1,0 +1,49 @@
+Consumer country original,Consumer country clean,consumer_group_optional
+China,China,China
+Australia,Australia,Global North
+Austria,Austria,Global North
+Belgium,Belgium,Global North
+Bulgaria,Bulgaria,Global North
+Canada,Canada,Global North
+Croatia,Croatia,Global North
+Cyprus,Cyprus,Global North
+Czechia,Czechia,Global North
+Denmark,Denmark,Global North
+Estonia,Estonia,Global North
+Finland,Finland,Global North
+France,France,Global North
+Germany,Germany,Global North
+Greece,Greece,Global North
+Hungary,Hungary,Global North
+Ireland,Ireland,Global North
+Italy,Italy,Global North
+Japan,Japan,Global North
+Latvia,Latvia,Global North
+Lithuania,Lithuania,Global North
+Luxembourg,Luxembourg,Global North
+Malta,Malta,Global North
+Netherlands,Netherlands,Global North
+Norway,Norway,Global North
+Poland,Poland,Global North
+Portugal,Portugal,Global North
+South Korea,Republic of Korea,Global North
+Romania,Romania,Global North
+Slovakia,Slovakia,Global North
+Slovenia,Slovenia,Global North
+Spain,Spain,Global North
+Sweden,Sweden,Global North
+Switzerland,Switzerland,Global North
+United States,United States,Global North
+Brazil,Brazil,Global South / other
+India,India,Global South / other
+Indonesia,Indonesia,Global South / other
+México,México,Global South / other
+Russia,Russia,Global South / other
+South Africa,South Africa,Global South / other
+Taiwan,Taiwan,Global South / other
+Turkey,Turkey,Global South / other
+UK and RoW Europe,UK and RoW Europe,Global South / other
+RoW Africa,RoW Africa,RoW aggregate
+RoW America,RoW America,RoW aggregate
+RoW Asia and Pacific,RoW Asia and Pacific,RoW aggregate
+RoW Middle East,RoW Middle East,RoW aggregate

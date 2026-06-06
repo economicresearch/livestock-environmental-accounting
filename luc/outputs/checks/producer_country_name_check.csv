@@ -1,0 +1,163 @@
+Producer country original,Producer country clean,producer_group_optional
+China,China,China
+Australia,Australia,Global North
+Austria,Austria,Global North
+Belgium,Belgium,Global North
+Bulgaria,Bulgaria,Global North
+Canada,Canada,Global North
+Croatia,Croatia,Global North
+Cyprus,Cyprus,Global North
+Czechia,Czechia,Global North
+Denmark,Denmark,Global North
+Estonia,Estonia,Global North
+Finland,Finland,Global North
+France,France,Global North
+Germany,Germany,Global North
+Greece,Greece,Global North
+Hungary,Hungary,Global North
+Ireland,Ireland,Global North
+Israel,Israel,Global North
+Italy,Italy,Global North
+Japan,Japan,Global North
+Latvia,Latvia,Global North
+Lithuania,Lithuania,Global North
+Luxembourg,Luxembourg,Global North
+Netherlands,Netherlands,Global North
+New Zealand,New Zealand,Global North
+Norway,Norway,Global North
+Poland,Poland,Global North
+Portugal,Portugal,Global North
+South Korea,Republic of Korea,Global North
+Romania,Romania,Global North
+Slovakia,Slovakia,Global North
+Slovenia,Slovenia,Global North
+Spain,Spain,Global North
+Sweden,Sweden,Global North
+Switzerland,Switzerland,Global North
+United Kingdom,United Kingdom,Global North
+United States,United States,Global North
+Afghanistan,Afghanistan,Global South / other
+Albania,Albania,Global South / other
+Algeria,Algeria,Global South / other
+Angola,Angola,Global South / other
+Antigua and Barbuda,Antigua and Barbuda,Global South / other
+Argentina,Argentina,Global South / other
+Armenia,Armenia,Global South / other
+Azerbaijan,Azerbaijan,Global South / other
+Bahamas,Bahamas,Global South / other
+Bangladesh,Bangladesh,Global South / other
+Barbados,Barbados,Global South / other
+Belarus,Belarus,Global South / other
+Belize,Belize,Global South / other
+Benin,Benin,Global South / other
+Bhutan,Bhutan,Global South / other
+Bolivia,Bolivia,Global South / other
+Bosnia and Herzegovina,Bosnia and Herzegovina,Global South / other
+Botswana,Botswana,Global South / other
+Brazil,Brazil,Global South / other
+Brunei,Brunei,Global South / other
+Burkina Faso,Burkina Faso,Global South / other
+Burundi,Burundi,Global South / other
+Cabo Verde,Cabo Verde,Global South / other
+Cambodia,Cambodia,Global South / other
+Cameroon,Cameroon,Global South / other
+Central African Republic,Central African Republic,Global South / other
+Chad,Chad,Global South / other
+Chile,Chile,Global South / other
+Colombia,Colombia,Global South / other
+Comoros,Comoros,Global South / other
+Costa Rica,Costa Rica,Global South / other
+Côte d'Ivoire,Cote d'Ivoire,Global South / other
+Cuba,Cuba,Global South / other
+Democratic Republic of the Congo,DR Congo,Global South / other
+Dominica,Dominica,Global South / other
+Dominican Republic,Dominican Republic,Global South / other
+Ecuador,Ecuador,Global South / other
+Egypt,Egypt,Global South / other
+El Salvador,El Salvador,Global South / other
+Equatorial Guinea,Equatorial Guinea,Global South / other
+Ethiopia,Ethiopia,Global South / other
+Fiji,Fiji,Global South / other
+Gabon,Gabon,Global South / other
+Gambia,Gambia,Global South / other
+Georgia,Georgia,Global South / other
+Ghana,Ghana,Global South / other
+Grenada,Grenada,Global South / other
+Guatemala,Guatemala,Global South / other
+Guinea,Guinea,Global South / other
+Guinea-Bissau,Guinea-Bissau,Global South / other
+Guyana,Guyana,Global South / other
+Haiti,Haiti,Global South / other
+Honduras,Honduras,Global South / other
+India,India,Global South / other
+Indonesia,Indonesia,Global South / other
+Iran,Iran,Global South / other
+Jamaica,Jamaica,Global South / other
+Kazakhstan,Kazakhstan,Global South / other
+Kenya,Kenya,Global South / other
+Kyrgyzstan,Kyrgyzstan,Global South / other
+Laos,Laos,Global South / other
+Lebanon,Lebanon,Global South / other
+Lesotho,Lesotho,Global South / other
+Liberia,Liberia,Global South / other
+Libya,Libya,Global South / other
+Madagascar,Madagascar,Global South / other
+Malawi,Malawi,Global South / other
+Malaysia,Malaysia,Global South / other
+Mali,Mali,Global South / other
+Mauritius,Mauritius,Global South / other
+Moldova,Moldova,Global South / other
+Mongolia,Mongolia,Global South / other
+Morocco,Morocco,Global South / other
+Mozambique,Mozambique,Global South / other
+Myanmar,Myanmar,Global South / other
+México,México,Global South / other
+Namibia,Namibia,Global South / other
+Nepal,Nepal,Global South / other
+New Caledonia,New Caledonia,Global South / other
+Nicaragua,Nicaragua,Global South / other
+Nigeria,Nigeria,Global South / other
+North Korea,North Korea,Global South / other
+North Macedonia,North Macedonia,Global South / other
+Pakistan,Pakistan,Global South / other
+Palestine,Palestine,Global South / other
+Panama,Panama,Global South / other
+Papua New Guinea,Papua New Guinea,Global South / other
+Paraguay,Paraguay,Global South / other
+Peru,Peru,Global South / other
+Philippines,Philippines,Global South / other
+Puerto Rico,Puerto Rico,Global South / other
+Republic of the Congo,Republic of the Congo,Global South / other
+Russia,Russia,Global South / other
+Rwanda,Rwanda,Global South / other
+Saint Kitts and Nevis,Saint Kitts and Nevis,Global South / other
+Saint Lucia,Saint Lucia,Global South / other
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Global South / other
+Senegal,Senegal,Global South / other
+Serbia and Montenegro,Serbia and Montenegro,Global South / other
+Sierra Leone,Sierra Leone,Global South / other
+Singapore,Singapore,Global South / other
+Solomon Islands,Solomon Islands,Global South / other
+Somalia,Somalia,Global South / other
+South Africa,South Africa,Global South / other
+Sri Lanka,Sri Lanka,Global South / other
+Sudan and South Sudan,Sudan and South Sudan,Global South / other
+Suriname,Suriname,Global South / other
+Swaziland,Swaziland,Global South / other
+Syria,Syria,Global South / other
+Tanzania,Tanzania,Global South / other
+Thailand,Thailand,Global South / other
+Timor-Leste,Timor-Leste,Global South / other
+Togo,Togo,Global South / other
+Trinidad and Tobago,Trinidad and Tobago,Global South / other
+Tunisia,Tunisia,Global South / other
+Turkey,Turkey,Global South / other
+Uganda,Uganda,Global South / other
+Ukraine,Ukraine,Global South / other
+Uruguay,Uruguay,Global South / other
+Uzbekistan,Uzbekistan,Global South / other
+Vanuatu,Vanuatu,Global South / other
+Venezuela,Venezuela,Global South / other
+Vietnam,Vietnam,Global South / other
+Zambia,Zambia,Global South / other
+Zimbabwe,Zimbabwe,Global South / other
