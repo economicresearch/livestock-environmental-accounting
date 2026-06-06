@@ -1,0 +1,15 @@
+region,total_tCO2e,year,scope,country,group,group_label,population,per_capita_tCO2e,share_of_scope_total_percent,rank_type
+US,325385103.93250036,2022,terrestrial_animal_products,United States,GN,Global North,334017321.0,0.9741563789516783,16.375951154207414,top3_total_emissions
+DE,58051280.32143652,2022,terrestrial_animal_products,Germany,GN,Global North,83797985.0,0.6927526995003104,2.9215994201758337,top3_total_emissions
+FR,51548432.06359673,2022,terrestrial_animal_products,France,GN,Global North,68065015.0,0.7573410813704622,2.5943246797325896,top3_total_emissions
+MT,275292.0711122112,2022,terrestrial_animal_products,Malta,GN,Global North,531113.0,0.5183305080316453,0.013854873671811858,lowest3_total_emissions
+EE,397835.06513903535,2022,terrestrial_animal_products,Estonia,GN,Global North,1348840.0,0.29494607599050693,0.02002220604265664,lowest3_total_emissions
+LU,443500.0777860957,2022,terrestrial_animal_products,Luxembourg,GN,Global North,653103.0,0.6790660551032466,0.022320430538882052,lowest3_total_emissions
+CN,628515814.1695958,2022,terrestrial_animal_products,China,CN,China,1412175000.0,0.44506935342262527,31.63188525871592,top3_total_emissions
+CN,628515814.1695958,2022,terrestrial_animal_products,China,CN,China,1412175000.0,0.44506935342262527,31.63188525871592,lowest3_total_emissions
+BR,223631280.4186341,2022,terrestrial_animal_products,Brazil,GS,Global South (ex-China),210306415.0,1.0633592913398962,11.254894217432012,top3_total_emissions
+IN,185798597.9798182,2022,terrestrial_animal_products,India,GS,Global South (ex-China),1425423212.0,0.13034626938558525,9.350854505217002,top3_total_emissions
+ID,62804039.68758218,2022,terrestrial_animal_products,Indonesia,GS,Global South (ex-China),278830529.0,0.22524090139205016,3.1607958501508486,top3_total_emissions
+ZA,8920085.666472591,2022,terrestrial_animal_products,South Africa,GS,Global South (ex-China),62378410.0,0.14299956774263067,0.4489292392309495,lowest3_total_emissions
+MX,34924264.87885856,2022,terrestrial_animal_products,Mexico,GS,Global South (ex-China),128613117.0,0.2715451245836656,1.7576651445956513,lowest3_total_emissions
+RU,52223286.036484875,2022,terrestrial_animal_products,Russian Federation,GS,Global South (ex-China),144236933.0,0.3620659767944794,2.6282886675202164,lowest3_total_emissions

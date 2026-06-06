@@ -1,0 +1,11 @@
+region,total_tCO2e,year,scope,country,group,group_label,population,per_capita_tCO2e,share_of_scope_total_percent
+CN,628515814.1695958,2022,terrestrial_animal_products,China,CN,China,1412175000.0,0.44506935342262527,31.63188525871592
+US,325385103.93250036,2022,terrestrial_animal_products,United States,GN,Global North,334017321.0,0.9741563789516783,16.375951154207414
+BR,223631280.4186341,2022,terrestrial_animal_products,Brazil,GS,Global South (ex-China),210306415.0,1.0633592913398962,11.254894217432012
+IN,185798597.9798182,2022,terrestrial_animal_products,India,GS,Global South (ex-China),1425423212.0,0.13034626938558525,9.350854505217002
+ID,62804039.68758218,2022,terrestrial_animal_products,Indonesia,GS,Global South (ex-China),278830529.0,0.22524090139205016,3.1607958501508486
+DE,58051280.32143652,2022,terrestrial_animal_products,Germany,GN,Global North,83797985.0,0.6927526995003104,2.9215994201758337
+RU,52223286.036484875,2022,terrestrial_animal_products,Russian Federation,GS,Global South (ex-China),144236933.0,0.3620659767944794,2.6282886675202164
+FR,51548432.06359673,2022,terrestrial_animal_products,France,GN,Global North,68065015.0,0.7573410813704622,2.5943246797325896
+CA,39063762.10003459,2022,terrestrial_animal_products,Canada,GN,Global North,38935934.0,1.0032830366939338,1.9659973745523684
+GB,38638640.95396147,2022,terrestrial_animal_products,United Kingdom,GN,Global North,67604000.0,0.5715437097503324,1.9446019171740916
