@@ -1,4 +1,3 @@
-# livestock-environmental-accounting
 
 # Livestock Environmental Accounting
 
